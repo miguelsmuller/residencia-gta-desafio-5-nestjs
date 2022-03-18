@@ -1,0 +1,38 @@
+POST http://localhost:3000/usuario HTTP/1.1
+content-type: application/json
+
+{    
+}
+
+###
+
+
+PUT http://localhost:3000/usuario/order HTTP/1.1
+content-type: application/json
+
+{    
+}
+
+
+###
+
+GET http://localhost:3000/usuario/ranking HTTP/1.1
+content-type: application/json
+
+{    
+}
+
+###
+GET http://localhost:3000/usuario/65168165165 HTTP/1.1
+content-type: application/jso//
+
+{    
+}
+
+###
+GET http://localhost:3000/usuario/nfirsts/10 HTTP/1.1
+content-type: application/json
+
+{    
+}
+
